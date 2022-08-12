@@ -1,0 +1,15 @@
+C:\GIT\HomeEdition\Work003\obj\Debug\net6.0\Work003.csproj.AssemblyReference.cache
+C:\GIT\HomeEdition\Work003\obj\Debug\net6.0\Work003.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\HomeEdition\Work003\obj\Debug\net6.0\Work003.AssemblyInfoInputs.cache
+C:\GIT\HomeEdition\Work003\obj\Debug\net6.0\Work003.AssemblyInfo.cs
+C:\GIT\HomeEdition\Work003\obj\Debug\net6.0\Work003.csproj.CoreCompileInputs.cache
+C:\GIT\HomeEdition\Work003\bin\Debug\net6.0\Work003.exe
+C:\GIT\HomeEdition\Work003\bin\Debug\net6.0\Work003.deps.json
+C:\GIT\HomeEdition\Work003\bin\Debug\net6.0\Work003.runtimeconfig.json
+C:\GIT\HomeEdition\Work003\bin\Debug\net6.0\Work003.dll
+C:\GIT\HomeEdition\Work003\bin\Debug\net6.0\Work003.pdb
+C:\GIT\HomeEdition\Work003\obj\Debug\net6.0\Work003.dll
+C:\GIT\HomeEdition\Work003\obj\Debug\net6.0\refint\Work003.dll
+C:\GIT\HomeEdition\Work003\obj\Debug\net6.0\Work003.pdb
+C:\GIT\HomeEdition\Work003\obj\Debug\net6.0\Work003.genruntimeconfig.cache
+C:\GIT\HomeEdition\Work003\obj\Debug\net6.0\ref\Work003.dll
