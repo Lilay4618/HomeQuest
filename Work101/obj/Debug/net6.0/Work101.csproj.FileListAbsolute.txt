@@ -1,0 +1,15 @@
+C:\GIT\HomeEdition\Work101\bin\Debug\net6.0\Work101.exe
+C:\GIT\HomeEdition\Work101\bin\Debug\net6.0\Work101.deps.json
+C:\GIT\HomeEdition\Work101\bin\Debug\net6.0\Work101.runtimeconfig.json
+C:\GIT\HomeEdition\Work101\bin\Debug\net6.0\Work101.dll
+C:\GIT\HomeEdition\Work101\bin\Debug\net6.0\Work101.pdb
+C:\GIT\HomeEdition\Work101\obj\Debug\net6.0\Work101.csproj.AssemblyReference.cache
+C:\GIT\HomeEdition\Work101\obj\Debug\net6.0\Work101.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\HomeEdition\Work101\obj\Debug\net6.0\Work101.AssemblyInfoInputs.cache
+C:\GIT\HomeEdition\Work101\obj\Debug\net6.0\Work101.AssemblyInfo.cs
+C:\GIT\HomeEdition\Work101\obj\Debug\net6.0\Work101.csproj.CoreCompileInputs.cache
+C:\GIT\HomeEdition\Work101\obj\Debug\net6.0\Work101.dll
+C:\GIT\HomeEdition\Work101\obj\Debug\net6.0\refint\Work101.dll
+C:\GIT\HomeEdition\Work101\obj\Debug\net6.0\Work101.pdb
+C:\GIT\HomeEdition\Work101\obj\Debug\net6.0\Work101.genruntimeconfig.cache
+C:\GIT\HomeEdition\Work101\obj\Debug\net6.0\ref\Work101.dll
