@@ -7,7 +7,7 @@ int numSto;
 int.TryParse(str, out numStr);
 int.TryParse(sto, out numSto);
 
-int[,] a = new int[numStr, numSto];
+double[,] a = new double[numStr, numSto];
  
 Random random = new Random();
 for (int i = 0; i < numStr; i++)
